@@ -1,6 +1,6 @@
-# github-training-2023
+# github-training-2024
 
-Welcome to the 2023 AIAA GitHub Training! This exercise will go over setting up Git, Github CLI, initializing a repository, creating a branch, committing changes, and making contributions. Feel free to reach out to Shivam Patel ([@shivammpat](https://github.com/shivammpat)) if you have any issues!
+Welcome to the 2024 AIAA GitHub Training! This exercise will go over setting up Git, Github CLI, initializing a repository, creating a branch, committing changes, and making contributions. Feel free to reach out to Shivam Patel ([@shivammpat](https://github.com/shivammpat)) if you have any issues!
 
 We tried to make this training as foundational as possible, but you may need to brush up on your Python and Terminal skills. That said, I strongly discourage consulting tools like ChatGPT or Bard. They will happily generate problematic garbage that will make completing this exercise harder than it needs to be.
 
@@ -151,7 +151,7 @@ We tried to make this training as foundational as possible, but you may need to 
 
 4. We're now done with the local part of the training. Now, we need to go online in order to merge our changes into the main branch of code. In most team repositories, the main branch will be protected, meaning that is always in a functional state. Thus, we need to create a `pull request` in order to have our changes considered for merging. If the changes are approved, the branches will be merged and the changes will be pulled over into main.
 
-   1. Login to GitHub in another tab. Navigate to the [repository page](https://github.com/Rutgers-RPL/github-training-2023).
+   1. Login to GitHub in another tab. Navigate to the [repository page](https://github.com/Rutgers-RPL/github-training-2024).
 
    2. Click on the branches drop down and select your branch.  
 
