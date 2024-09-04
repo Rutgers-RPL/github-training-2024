@@ -2,7 +2,7 @@
 
 Welcome to the 2024 AIAA GitHub Training! This exercise will go over setting up Git, Github CLI, initializing a repository, creating a branch, committing changes, and making contributions. Feel free to reach out to Shivam Patel ([@shivammpat](https://github.com/shivammpat)) if you have any issues!
 
-We tried to make this training as foundational as possible, but you may need to brush up on your Python and Terminal skills. That said, I strongly discourage consulting tools like ChatGPT or Bard. They will happily generate problematic garbage that will make completing this exercise harder than it needs to be.
+We tried to make this training as foundational as possible, but you may need to brush up on your Python and Terminal skills. That said, I strongly discourage consulting tools like ChatGPT or Copilot. They will happily generate problematic nonsense that will make completing this exercise harder than it needs to be.
 
 ## Getting Started
 
