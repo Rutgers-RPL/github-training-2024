@@ -10,9 +10,9 @@ from introductions import ianquaye
 
 def main():
     # Call your intro function below this line
-    # shivampatel.intro() 
-    # kashvichandwani.intro()
-    # ivanz.intro()
+    shivampatel.intro() 
+    kashvichandwani.intro()
+    ivanz.intro()
     ianquaye.intro()
 
     # Call you intro function above this line
