@@ -5,13 +5,15 @@ sys.path.append('./introductions') # or this (bonus points if you know why)
 from introductions import shivampatel # import the file containing your individual introduction blurb
 from introductions import kashvichandwani
 from introductions import ivanz
+from introductions import ianquaye
 # Put all imports above this line
 
 def main():
     # Call your intro function below this line
-    shivampatel.intro() 
-    kashvichandwani.intro()
-    ivanz.intro()
+    # shivampatel.intro() 
+    # kashvichandwani.intro()
+    # ivanz.intro()
+    ianquaye.intro()
 
     # Call you intro function above this line
 
