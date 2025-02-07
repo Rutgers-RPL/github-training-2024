@@ -160,7 +160,7 @@ We tried to make this training as foundational as possible, but you may need to 
 
       ![Error Displaying Image!](./gfx/open-pr.png "Open Pull Request")
 
-   4. Write a brief description of your work and select Shivam Patel (@shivammpat) as you reviewer.
+   4. Write a brief description of your work and select Kashvi C (@KashviC) or Tyler A (@Sanddaman) as your reviewer.
 
       ![Error Displaying Image!](./gfx/create-pr.png "Create Pull Request")
 
