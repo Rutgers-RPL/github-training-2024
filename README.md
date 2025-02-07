@@ -26,7 +26,7 @@ We tried to make this training as foundational as possible, but you may need to 
     gh auth status
     ```
 
- 6. Discord DM a screen grab of the output of those commands to Shivam Patel (techy_clodhopper). It should look something like the following.
+ 6. Discord DM a screen grab of the output of those commands to Kashvi C (kashibarmoo) or Tyler A (sandman444). It should look something like the following.
 
     ![Error Displaying Image!](./gfx/verify_install.png "Installation Verification")
 
@@ -43,8 +43,7 @@ We tried to make this training as foundational as possible, but you may need to 
    mkdir RRPL
    cd RRPL
    ```
-
-3. The process of accessing the code stored on the cloud and putting it on your device is called *cloning.* Unlike other cloud tools like Google Drive or Microsoft OneDrive, the files in your workspace are not automatically synced with the remote (cloud) ones. So, when you download the code on you machine, your actually downloading a *copy* of the code you see online (hence, cloning). Let's clone our repository. You can clone using three different methods: HTTPS, SSH, or the GitHub CLI. In most cases, you'll want to use HTTPS or the GH CLI.
+4026123. The process of accessing the code stored on the cloud and putting it on your device is called *cloning.* Unlike other cloud tools like Google Drive or Microsoft OneDrive, the files in your workspace are not automatically synced with the remote (cloud) ones. So, when you download the code on you machine, your actually downloading a *copy* of the code you see online (hence, cloning). Let's clone our repository. You can clone using three different methods: HTTPS, SSH, or the GitHub CLI. In most cases, you'll want to use HTTPS or the GH CLI.
 
    ```Shell
    gh repo clone Rutgers-RPL/github-training-2024
