@@ -9,6 +9,7 @@ from introductions import ianquaye
 from introductions import aaronordonez
 from introductions import mokshithanelluri
 from introductions import matthewschaming
+from introductions import sophiaabbassi
 # Put all imports above this line
 
 def main():
@@ -20,6 +21,7 @@ def main():
     aaronordonez.intro()
     mokshithanelluri.intro()
     matthewschaming.intro()
+    sophiaabbassi.intro()
     # Call you intro function above this line
 
 
